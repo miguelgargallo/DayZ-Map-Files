@@ -1,4 +1,4 @@
-# How_To_Map_DayZ_Fix
+# DayZ Map Files
 Important sources to proceed tutorial
 
 A guide for people who is coming,
